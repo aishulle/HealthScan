@@ -1,0 +1,15 @@
+# Ignore node modules
+frontend/node_modules/
+
+# Ignore Next.js build output
+frontend/.next/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files (if any)
+.env
